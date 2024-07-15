@@ -1,2 +1,3 @@
 # RADX
-Corrective code for disk spectrum applying doppler shift and relativistic effects using iron lines.
+Relativity Adjusted (?) Disk 
+Corrective code for disk spectrum applying Doppler shift and relativistic effects using iron lines.
