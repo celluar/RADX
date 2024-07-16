@@ -11,7 +11,7 @@ def rg(mass):
 # Schwarzschild radius / event horizon radius
 rs = 2 * rg
 
-#  Radius of Marginal Stability (or isco for rotating BH)
+#  Radius of Marginal Stability (or isco for rotating B)
 def rms(spin): 
     '''
     spin here is the unitless -1<a<1 value
