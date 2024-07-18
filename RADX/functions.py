@@ -39,6 +39,7 @@ def energy_shift(u,phi):
     den = 1+ beta * np.sin(i) * np.sin(phi) * np.sin(alpha) / np.sin(psi)
     return num/den
 
+
 beta = np.sqrt(u/(2*(1-u)))
    
 psi = np.arccos(np.sin(i) * np.cos(phi))
