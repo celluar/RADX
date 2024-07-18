@@ -10,7 +10,7 @@ Welcome to RADX's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   RADX.rst
 
 Indices and tables
 ==================
