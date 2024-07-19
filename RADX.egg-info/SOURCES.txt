@@ -1,9 +1,11 @@
 README.md
 pyproject.toml
 RADX/__init__.py
-RADX/attempt-2-cr8-disk.py
-RADX/combine-code.py
+RADX/disk_plot.py
+RADX/functions.py
+RADX/radx_functions.py
 RADX.egg-info/PKG-INFO
 RADX.egg-info/SOURCES.txt
 RADX.egg-info/dependency_links.txt
+RADX.egg-info/requires.txt
 RADX.egg-info/top_level.txt
