@@ -34,4 +34,11 @@ $$
 $$
 combines the effects of the gravitational redshift and Doppler effect
 
+# HOW TO USE 
+Install RADX by using 
+
+        pip install RADX            
+First, import RADX and its functions
+
+        from RADX import radx_functions as radx_func
 

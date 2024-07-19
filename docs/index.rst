@@ -9,8 +9,8 @@ Welcome to RADX's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   
+   RADX.rst
 
 Indices and tables
 ==================
